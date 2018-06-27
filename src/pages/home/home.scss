@@ -1,3 +1,35 @@
 page-home {
 
+    #left{
+        border-right: 2px solid black;
+    }
+    .vut, .fres{
+        width: 50%;
+        float: left;
+        text-align: center;
+        padding: 0% 5%;
+
+       
+        
+    }
 }
+
+ion-title{
+    
+    text-align: center
+}
+
+.lun{
+    position: absolute;
+    bottom: 30px;
+    left: 40%;
+    transform: translateX(-50);
+
+    
+        
+    }
+
+
+
+
+
